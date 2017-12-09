@@ -27,10 +27,6 @@
         padding: 15px;
       }
       .row.content {height:auto;}
-	  .col { 
-        display: block;
-        width: 100%;
-    }
     }	
 #intro-header
 {
